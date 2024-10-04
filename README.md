@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Chukwuma23
-- 👀 I’m interested in web and app development. 
-- 🌱 I’m currently learning python and react JS after i have completed my web development course.
-- 💞️ I’m looking to collaborate with  an app developer.
+- 👀 I’m a front end web developer. 
+- 🌱 I’m currently working on becoming a full stack web developer.
+- 💞️ I’m looking to collaborate with like mides.
 - 📫 How to reach me: here is my WhatsApp number  +2347056961874.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm addicted in writing code.
 
 <!---
 Chukwuma23/Chukwuma23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
