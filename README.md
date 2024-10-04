@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with like mides.
 - 📫 How to reach me: here is my WhatsApp number  +2347056961874.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I'm addicted in writing code.
+- ⚡ Fun fact: ... I'm addicted in writing codes.
 
 <!---
 Chukwuma23/Chukwuma23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
